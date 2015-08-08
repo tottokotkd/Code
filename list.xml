@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chcp>
+  <entity>
+    <key>us</key>
+    <value>437</value>
+  </entity>
+  <entity>
+    <key>sjis</key>
+    <value>932</value>
+  </entity>
+  <entity>
+    <key>utf8</key>
+    <value>65001</value>
+  </entity>
+  <entity>
+    <key>eucjp</key>
+    <value>51932</value>
+  </entity>
+  <entity>
+    <key>iso2022</key>
+    <value>50220</value>
+  </entity>
+  <entity>
+    <key>iso2022half</key>
+    <value>50222</value>
+  </entity>
+  <entity>
+    <key>ascii</key>
+    <value>20127</value>
+  </entity>
+  <entity>
+    <key>utf16</key>
+    <value>1200</value>
+  </entity>
+</chcp>
